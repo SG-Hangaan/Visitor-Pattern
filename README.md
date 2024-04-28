@@ -43,7 +43,7 @@ Implement a visitor design pattern approach:
 # Implementation of Visitor Pattern
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/SG-Hangaan/Visitor-Pattern/assets/127215110/92f5fca3-7478-4c09-9f68-79d709d961b3"/>
 </p>
 
 # UML Class Diagram
